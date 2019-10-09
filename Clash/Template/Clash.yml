@@ -53,7 +53,7 @@ Proxy:
 
 # >> 国内代理节点，一切国内地址流量都会通过此节点，如果机场有国内南北互通加速节点或者国内 CN2 节点可填加在这
   - { name: Domestic, type: select, proxies: [DIRECT] }
-# >> 示例 - { name: 'Domestic', type: select, proxies: [DIRECT, '国内 CN2 2'] }
+# >> 示例 - { name: 'Domestic', type: select, proxies: [DIRECT, '国内 CN2'] }
 
 # >> 苹果服务代理节点，包括 App Store 与 iCloud，可以在这里切换选择是否直连或通过默认代理节点或使用国内加速节点
   - { name: 'Apple Services', type: select, proxies: [DIRECT, Domestic, Proxy] }

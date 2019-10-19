@@ -18,7 +18,7 @@ external-controller: '127.0.0.1:6170'
 secret: ''
 # >> Clash for Windows 代理节点测速访问地址
 cfw-latency-url: 'http://www.gstatic.com/generate_204'
-# >> DNS 本地映射，同时会开启虚拟网卡接管系统一切流量
+# >> DNS 本地映射，同时会开启虚拟网卡接管系统一切流量（只包括通过域名）
 # >> 使用前请点击 Clash for Windows 控制面板 General 中的 TAP Device Install 安装 TAP 虚拟网卡
 # >> 不需要虚拟网卡模式请注释以下部分
 dns:
@@ -26,12 +26,11 @@ dns:
   enhanced-mode: fake-ip
   listen: 127.0.0.1:53
   nameserver:
-    - https://dns.rubyfish.cn/dns-query
     - 223.5.5.5
     - 114.114.114.114
   fallback:
     - https://dns.gosicks.com/dns-query
-    - tls://dns.rubyfish.cn:853
+    - https://1.1.1.1/dns-query
 # >> 不需要虚拟网卡模式请注释以上部分
 
 # >> Clash 代理节点配置
@@ -50,6 +49,10 @@ Proxy:
 # >> 视频流服务代理节点，包括 Netflix Youtube Hulu 等常见视频网站流量都会通过此节点
   - { name: 'Stream Services', type: select, proxies: [ 请在此输入代理名称，格式见示例见下方 ] }
 # >> 示例 - { name: 'Stream Services', type: select, proxies: ['台湾 1', '美国 2', '日本 3'] }
+
+# >> Hentai 代理节点，包括常见 Hentai 网站
+  - { name: 'Hentai', type: select, proxies: [ 请在此输入代理名称，格式见示例见下方 ] }
+# >> 示例 - { name: 'Hentai', type: select, proxies: ['台湾 1', '美国 2', '日本 3'] }
 
 # >> 国内代理节点，一切国内地址流量都会通过此节点，如果机场有国内南北互通加速节点或者国内 CN2 节点可填加在这
   - { name: Domestic, type: select, proxies: [DIRECT] }
@@ -826,9 +829,14 @@ Rule:
   - 'DOMAIN-SUFFIX,dropboxapi.com,Proxy'
   - 'DOMAIN-SUFFIX,dropbox.com,Proxy'
   - 'DOMAIN-SUFFIX,dropboxusercontent.com,Proxy'
-# >> Manhuagui
-  - 'DOMAIN-SUFFIX,manhuagui.com,Stream Services'
-  - 'DOMAIN-SUFFIX,hamreus.com,Stream Services'
+# >> Hentai
+  - 'DOMAIN-SUFFIX,manhuagui.com,Hentai'
+  - 'DOMAIN-SUFFIX,hamreus.com,Hentai'
+  - 'DOMAIN-SUFFIX,fakku.net,Hentai'
+  - 'DOMAIN-SUFFIX,e-hentai.org,Hentai'
+  - 'DOMAIN-SUFFIX,exhentai.org,Hentai'
+  - 'DOMAIN-SUFFIX,ehgt.org,Hentai'
+  - 'DOMAIN-SUFFIX,nhentai.net,Hentai'
 # >> 国内地址
   - 'DOMAIN-SUFFIX,cn,Domestic'
   - 'DOMAIN-SUFFIX,alibaba.com,Domestic'

@@ -1,0 +1,7 @@
+# >> Cloud
+PROCESS-NAME,Dropbox
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,drive.google.com

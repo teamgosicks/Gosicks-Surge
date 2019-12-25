@@ -1,10 +1,23 @@
-# >> Downloader
+# --- Downloader ---
+
+# > Aria2
 PROCESS-NAME,aria2c
+# > Free Download Manager
 PROCESS-NAME,fdm
+# > Folx
 PROCESS-NAME,Folx
+# > Net Transport
 PROCESS-NAME,NetTransport
+# > 迅雷
 PROCESS-NAME,Thunder
+# > uTorrent
 PROCESS-NAME,uTorrent
+# > WebTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
+# > Transmission
 PROCESS-NAME,Transmission
+# > qBittorrent
+PROCESS-NAME,qBittorrent
+
+# --- End of Downloader Section ---

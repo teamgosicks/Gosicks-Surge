@@ -1,1 +1,1 @@
-Surge3 and Clash Rules
+Surge3 Rules

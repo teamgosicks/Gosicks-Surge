@@ -10,6 +10,8 @@ PROCESS-NAME,Folx
 PROCESS-NAME,NetTransport
 # > 迅雷
 PROCESS-NAME,Thunder
+PROCESS-NAME,DownloadService
+URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
 # > uTorrent
 PROCESS-NAME,uTorrent
 # > WebTorrent

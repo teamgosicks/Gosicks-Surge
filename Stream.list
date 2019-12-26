@@ -179,6 +179,7 @@ DOMAIN,dfp6rglgjqszk.cloudfront.net
 # > YouTube
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
+DOMAIN-SUFFIX,youtu.be,force-remote-dns
 DOMAIN-SUFFIX,googlevideo.com,force-remote-dns
 DOMAIN-SUFFIX,youtube.com,force-remote-dns
 DOMAIN,youtubei.googleapis.com,force-remote-dns

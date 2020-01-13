@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,gvt0.com,force-remote-dns
 DOMAIN-SUFFIX,gvt1.com,force-remote-dns
 DOMAIN-SUFFIX,gvt3.com,force-remote-dns
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,force-remote-dns
-DOMAIN-KEYWORD,google,force-remote-dns
 DOMAIN-KEYWORD,blogspot,force-remote-dns
 # > Microsoft
 DOMAIN-SUFFIX,onedrive.live.com,force-remote-dns

@@ -13,3 +13,4 @@ DOMAIN,store.steampowered.com,force-remote-dns
 DOMAIN-SUFFIX,steamcommunity.com,force-remote-dns
 DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net,force-remote-dns
 PROCESS-NAME,Steam
+PROCESS-NAME,Steam Helper

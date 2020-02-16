@@ -1,5 +1,6 @@
 # ---  Steam --
 
+DOMAIN-SUFFIX,ipv6check-http.steamcontent.com,force-remote-dns
 DOMAIN-SUFFIX,steam-chat.com,force-remote-dns
 DOMAIN-SUFFIX,steampowered.com,force-remote-dns
 DOMAIN-SUFFIX,steamgames.com,force-remote-dns

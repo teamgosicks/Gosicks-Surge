@@ -104,8 +104,6 @@ DOMAIN-SUFFIX,wn.com,force-remote-dns
 DOMAIN-SUFFIX,wolframalpha.com,force-remote-dns
 DOMAIN-SUFFIX,x-art.com,force-remote-dns
 DOMAIN-SUFFIX,yimg.com,force-remote-dns
-DOMAIN,api.steampowered.com,force-remote-dns
-DOMAIN,store.steampowered.com,force-remote-dns
 DOMAIN-SUFFIX,apartmentratings.com,force-remote-dns
 DOMAIN-SUFFIX,apartments.com,force-remote-dns
 DOMAIN-SUFFIX,bankmobilevibe.com,force-remote-dns

@@ -287,7 +287,6 @@ DOMAIN-SUFFIX,softfamous.com,force-remote-dns
 DOMAIN-SUFFIX,soundcloud.com,force-remote-dns
 DOMAIN-SUFFIX,ssrcloud.org,force-remote-dns
 DOMAIN-SUFFIX,startpage.com,force-remote-dns
-DOMAIN-SUFFIX,steamcommunity.com,force-remote-dns
 DOMAIN-SUFFIX,steemit.com,force-remote-dns
 DOMAIN-SUFFIX,steemitwallet.com,force-remote-dns
 DOMAIN-SUFFIX,t66y.com,force-remote-dns

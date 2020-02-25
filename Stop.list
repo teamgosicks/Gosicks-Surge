@@ -194,20 +194,6 @@ DOMAIN-SUFFIX,wanproxy.127.net
 # > WPS
 DOMAIN-SUFFIX,ksosoft.com
 
-[URL Rewrite]
-^http://bbsanalytics\.weiphone\.net _ reject
-^http://capi\.douyucdn\.cn/lapi/sign/appapi/ _ reject
-^http://www\.inoreader\.com/adv/ _ reject
-^http://api\.mobile\.youku\.com/adv/ _ reject
-^http://mp\.weixin\.qq\.com/mp/report _ reject
-^http://g\.tbcdn\.cn/mtb/ _ reject
-^http://wbapp\.mobile\.sina\.cn/interface/win/winad\.php _ reject
-^http://wbapp\.mobile\.sina\.cn/interface/f/ttt/v3/freshguidad\.php _ reject
-^http://wbapp\.mobile\.sina\.cn/wbapplua/wbpullad\.lua _ reject
-^http://sdkapp\.mobile\.sina\.cn/interface/sdk/actionad\.php _ reject
-^http://sdkapp\.mobile\.sina\.cn/interface/sdk/sdkad\.php _ reject
-^http://u1\.img\.mobile\.sina\.cn/public/files/image/750x120_ _ reject
-
 # > iQiyi
 DOMAIN-SUFFIX,a.ckm.iqiyi.com
 DOMAIN-SUFFIX,ad.m.iqiyi.com

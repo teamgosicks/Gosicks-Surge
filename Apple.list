@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,www-cdn.icloud.com.akadns.net
+# > Siri
+USER-AGENT,*AssistantServices*,Proxy
 # > TestFlight
 DOMAIN,testflight.apple.com
 # > Apple URL Shortener

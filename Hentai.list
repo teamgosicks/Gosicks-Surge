@@ -1,5 +1,12 @@
 # --- Hentai ---
 
+# > General
+DOMAIN-SUFFIX,91porn.com,force-remote-dns
+DOMAIN-SUFFIX,pornhub.com,force-remote-dns
+DOMAIN-SUFFIX,t66y.com,force-remote-dns
+DOMAIN-SUFFIX,xvideos.com,force-remote-dns
+DOMAIN-SUFFIX,kdw019.com,force-remote-dns
+
 # > E@Hentai
 DOMAIN-SUFFIX,e-hentai.org,force-remote-dns
 DOMAIN-SUFFIX,exhentai.org,force-remote-dns
@@ -12,8 +19,8 @@ DOMAIN-SUFFIX,hamreus.com,force-remote-dns
 # > n@Hentai
 DOMAIN-SUFFIX,nhentai.net,force-remote-dns
 # > DMM
-DOMAIN-SUFFIX,dmm.co.jp,force-remote-dns
-DOMAIN-SUFFIX,dmm.com,force-remote-dns
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-KEYWORD,dmm
 # > Pornhub
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pornhub.com,force-remote-dns

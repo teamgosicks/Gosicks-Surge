@@ -13,24 +13,33 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,www-cdn.icloud.com.akadns.net
+
 # > Siri
 USER-AGENT,*AssistantServices*,Proxy
+
 # > TestFlight
 DOMAIN,testflight.apple.com
+
 # > Apple URL Shortener
 DOMAIN-SUFFIX,appsto.re
+
 # > iBooks Store download
 DOMAIN,books.itunes.apple.com
+
 # > iTunes Store Moveis Trailers
 DOMAIN,hls.itunes.apple.com
+
 # > App Store Preview
 DOMAIN,apps.apple.com
 DOMAIN,itunes.apple.com
+
 # > Spotlight
 DOMAIN,api-glb-sea.smoot.apple.com
+
 # > Dictionary
 DOMAIN,lookup-api.apple.com
 PROCESS-NAME,LookupViewService
+
 # > Apple News and Apple Map TOMTOM Version
 DOMAIN,gspe1-ssl.ls.apple.com
 PROCESS-NAME,News

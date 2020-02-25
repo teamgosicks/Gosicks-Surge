@@ -276,7 +276,6 @@ DOMAIN-SUFFIX,wan.youku.com
 DOMAIN-SUFFIX,ykatr.youku.com
 DOMAIN-SUFFIX,ykrec.youku.com
 
-
 # > IPv4
 IP-CIDR,117.177.248.17/32,no-resolve
 IP-CIDR,117.177.248.41/32,no-resolve
@@ -293,7 +292,7 @@ IP-CIDR,223.87.182.102/32,no-resolve
 IP-CIDR,223.87.182.11/32,no-resolve
 IP-CIDR,223.87.182.52/32,no-resolve
 
-# > 乐视 TV
+# > Leshi TV
 DOMAIN-SUFFIX,api.game.letvstore.com
 DOMAIN-SUFFIX,ark.letv.com
 DOMAIN-SUFFIX,dc.letv.com
@@ -403,7 +402,6 @@ DOMAIN-SUFFIX,wa.gtimg.com
 DOMAIN-SUFFIX,bfshan.cn
 
 # > AD Hostname
-
 DOMAIN-SUFFIX,10up.com
 DOMAIN-SUFFIX,111cn.net
 DOMAIN-SUFFIX,114la.com

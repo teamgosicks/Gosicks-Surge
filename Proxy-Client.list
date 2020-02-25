@@ -2,6 +2,7 @@
 
 # > V2ray
 PROCESS-NAME,v2ray
+
 # > Shadowsocks
 PROCESS-NAME,ss-local
 

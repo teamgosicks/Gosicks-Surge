@@ -16,6 +16,7 @@ IP-CIDR,149.154.160.0/22,no-resolve
 IP-CIDR,149.154.164.0/22,no-resolve
 IP-CIDR,149.154.168.0/22,no-resolve
 IP-CIDR,149.154.172.0/22,no-resolve
+
 # > Line
 DOMAIN-SUFFIX,scdn.co,force-remote-dns
 DOMAIN-SUFFIX,line.naver.jp,force-remote-dns
@@ -80,6 +81,7 @@ IP-CIDR,203.104.156.0/24,no-resolve
 IP-CIDR,203.104.157.0/24,no-resolve
 IP-CIDR,203.104.158.0/24,no-resolve
 IP-CIDR6,2400:dcc0::/32,no-resolve
+
 # > Slack
 USER-AGENT,Slack*
 PROCESS-NAME,Slack

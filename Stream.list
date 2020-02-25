@@ -123,6 +123,8 @@ DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 # > Netflix
 USER-AGENT,Argo*
+DOMAIN-KEYWORD,netflix,Proxy
+DOMAIN-KEYWORD,nflx,Proxy
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflxext.com
@@ -177,12 +179,12 @@ DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 # > YouTube
-USER-AGENT,com.google.ios.youtube*
-USER-AGENT,YouTube*
-DOMAIN-SUFFIX,youtu.be,force-remote-dns
+USER-AGENT,com.google.ios.youtube*,force-remote-dns
+USER-AGENT,YouTube*,force-remote-dns
 DOMAIN-SUFFIX,googlevideo.com,force-remote-dns
 DOMAIN-SUFFIX,youtube.com,force-remote-dns
 DOMAIN,youtubei.googleapis.com,force-remote-dns
+PROCESS-NAME,YT Music,force-remote-dns
 # > 愛奇藝台灣站
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,71.am

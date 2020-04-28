@@ -6,4 +6,7 @@ PROCESS-NAME,v2ray
 # > Shadowsocks
 PROCESS-NAME,ss-local
 
+# > Nebula
+PROCESS-NAME,nebula
+
 # --- End of Proxy Client Section ---

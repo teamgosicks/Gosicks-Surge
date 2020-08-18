@@ -1,7 +1,7 @@
 # --- Cloud-Direct ---
 
 # > GoodSync
-PROCESS-NAME,/GoodSync
+PROCESS-NAME,GoodSync
 
 # > BackBlaze
 DOMAIN-SUFFIX,backblaze.com

@@ -1,0 +1,10 @@
+# --- Cloud-Direct ---
+
+# > GoodSync
+PROCESS-NAME,/GoodSync
+
+# > BackBlaze
+DOMAIN-SUFFIX,backblaze.com
+DOMAIN-SUFFIX,backblazeb2.com
+
+# --- End of Cloud-Direct Section ---

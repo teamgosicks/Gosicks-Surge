@@ -2,6 +2,7 @@
 
 # > GoodSync
 PROCESS-NAME,GoodSync
+PROCESS-NAME,GoodSyncExplorer
 
 # > BackBlaze
 DOMAIN-SUFFIX,backblaze.com

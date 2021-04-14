@@ -1,0 +1,15 @@
+# --- Cloud-Direct ---
+
+# > GoodSync
+PROCESS-NAME,GoodSync
+PROCESS-NAME,GoodSyncExplorer
+PROCESS-NAME,gs-server.exe
+PROCESS-NAME,GoodSync.exe
+PROCESS-NAME,GsExplorer.exe
+PROCESS-NAME,gs-runner.exe
+
+# > BackBlaze
+DOMAIN-SUFFIX,backblaze.com
+DOMAIN-SUFFIX,backblazeb2.com
+
+# --- End of Cloud-Direct Section ---

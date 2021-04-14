@@ -1,0 +1,19 @@
+# ---  Steam --
+payload:
+
+  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamstat.us
+  - DOMAIN,api.steampowered.com
+  - DOMAIN,store.steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
+  - PROCESS-NAME,Steam
+  - PROCESS-NAME,Steam Helper
+
+# --- End of Steam Section ---

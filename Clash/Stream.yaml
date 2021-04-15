@@ -182,6 +182,7 @@ payload:
 # > YouTube
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN,youtubei.googleapis.com
   - PROCESS-NAME,YT Music
 

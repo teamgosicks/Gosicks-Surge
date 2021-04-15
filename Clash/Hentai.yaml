@@ -36,5 +36,9 @@ payload:
 
 # > MyGalgame
   - DOMAIN-SUFFIX,hhgal.com
+  
+# > novel
+  - DOMAIN-SUFFIX,zhaoze.art
+  - DOMAIN-SUFFIX,ailihaosi.xyz
 
 # --- End of Hentai Section ---

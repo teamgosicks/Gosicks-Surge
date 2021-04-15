@@ -2,6 +2,8 @@
 
 payload:
 
+  - '+.google.com'
+  - '+.www.google.com'
   - '+.265.com'
   - '+.2mdn.net'
   - '+.adservice.google.com'

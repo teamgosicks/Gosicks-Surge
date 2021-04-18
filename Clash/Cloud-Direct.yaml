@@ -9,6 +9,7 @@ payload:
   - PROCESS-NAME,GoodSync.exe
   - PROCESS-NAME,GsExplorer.exe
   - PROCESS-NAME,gs-runner.exe
+  - PROCESS-NAME,Resilio Sync.exe
 
 # > BackBlaze
   - DOMAIN-SUFFIX,backblaze.com

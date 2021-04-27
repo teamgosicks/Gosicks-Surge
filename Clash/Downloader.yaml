@@ -16,5 +16,6 @@ payload:
   - PROCESS-NAME,Weiyun.exe
   - PROCESS-NAME,baidunetdisk.exe
   - PROCESS-NAME,LIII.exe
-
+  - PROCESS-NAME,IDMan.exe
+  
 # --- End of Downloader Section ---

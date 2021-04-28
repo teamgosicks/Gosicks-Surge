@@ -1,6 +1,7 @@
 # ---  Steam --
 payload:
 
+# > Steam
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamgames.com
@@ -16,4 +17,8 @@ payload:
   - PROCESS-NAME,Steam
   - PROCESS-NAME,Steam Helper
 
+# > Xbox
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,xbox.com
+  
 # --- End of Steam Section ---

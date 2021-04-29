@@ -180,10 +180,13 @@ payload:
   - DOMAIN,dfp6rglgjqszk.cloudfront.net
 
 # > YouTube
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN,youtubei.googleapis.com
+  - DOMAIN,yt3.ggpht.com
   - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN,youtubei.googleapis.com
-  - PROCESS-NAME,YT Music
 
 # --- End of Stream Section ---

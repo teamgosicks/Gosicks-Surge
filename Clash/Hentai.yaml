@@ -37,7 +37,7 @@ payload:
 # > MyGalgame
   - DOMAIN-SUFFIX,hhgal.com
   
-# > novel
+# > Novel
   - DOMAIN-SUFFIX,zhaoze.art
   - DOMAIN-SUFFIX,ailihaosi.xyz
 

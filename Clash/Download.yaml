@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream:Clash/Downloader.yaml
 # --- Downloader ---
 
 payload:
@@ -17,31 +16,6 @@ payload:
   - PROCESS-NAME,Weiyun.exe
   - PROCESS-NAME,baidunetdisk.exe
   - PROCESS-NAME,LIII.exe
-<<<<<<< HEAD:Clash/Downloader.yaml
   - PROCESS-NAME,IDMan.exe
-  
-=======
 
-=======
-# --- Downloader ---
-
-payload:
-
-  - PROCESS-NAME,aria2c.exe
-  - PROCESS-NAME,fdm.exe
-  - PROCESS-NAME,Folx.exe
-  - PROCESS-NAME,NetTransport.exe
-  - PROCESS-NAME,Thunder.exe
-  - PROCESS-NAME,Transmission.exe
-  - PROCESS-NAME,uTorrent.exe
-  - PROCESS-NAME,WebTorrent.exe
-  - PROCESS-NAME,WebTorrent Helper.exe
-  - PROCESS-NAME,DownloadService.exe
-  - PROCESS-NAME,Weiyun.exe
-  - PROCESS-NAME,baidunetdisk.exe
-  - PROCESS-NAME,LIII.exe
-  - PROCESS-NAME,IDMan.exe
-  
->>>>>>> Stashed changes:Clash/Download.yaml
->>>>>>> 1.0:Clash/Download.yaml
 # --- End of Downloader Section ---

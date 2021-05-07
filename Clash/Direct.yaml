@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 
 # > Xbox
   - DOMAIN-SUFFIX,xboxlive.com

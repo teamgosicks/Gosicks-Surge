@@ -1,5 +1,15 @@
 # --- Hentai ---
 
+# > Pixiv
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net
+
+# > Pixiv Fanbox
+DOMAIN-SUFFIX,fanbox.cc
+
+# > Pixiv Booth
+DOMAIN-SUFFIX,booth.pm
+  
 # > General
 DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,pornhub.com

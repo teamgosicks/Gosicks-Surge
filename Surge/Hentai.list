@@ -1,26 +1,37 @@
 # --- Hentai ---
 
+# > Pixiv
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net
+
+# > Pixiv Fanbox
+DOMAIN-SUFFIX,fanbox.cc
+
+# > Pixiv Booth
+DOMAIN-SUFFIX,booth.pm
+  
 # > General
-DOMAIN-SUFFIX,91porn.com,force-remote-dns
-DOMAIN-SUFFIX,pornhub.com,force-remote-dns
-DOMAIN-SUFFIX,t66y.com,force-remote-dns
-DOMAIN-SUFFIX,xvideos.com,force-remote-dns
-DOMAIN-SUFFIX,kdw019.com,force-remote-dns
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,kdw019.com
 
 # > E@Hentai
-DOMAIN-SUFFIX,e-hentai.org,force-remote-dns
-DOMAIN-SUFFIX,exhentai.org,force-remote-dns
-DOMAIN-SUFFIX,ehgt.org,force-remote-dns
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,hath.network
 
 # > Fakku
-DOMAIN-SUFFIX,fakku.net,force-remote-dns
+DOMAIN-SUFFIX,fakku.net
 
 # > Manhuagui
-DOMAIN-SUFFIX,manhuagui.com,force-remote-dns
-DOMAIN-SUFFIX,hamreus.com,force-remote-dns
+DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,hamreus.com
 
 # > n@Hentai
-DOMAIN-SUFFIX,nhentai.net,force-remote-dns
+DOMAIN-SUFFIX,nhentai.net
 
 # > DMM
 DOMAIN-SUFFIX,dmm.co.jp
@@ -28,10 +39,17 @@ DOMAIN-KEYWORD,dmm
 
 # > Pornhub
 DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,pornhub.com,force-remote-dns
-DOMAIN-SUFFIX,pornhubpremium.com,force-remote-dns
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
 
 # > MyGalgame
 DOMAIN-SUFFIX,hhgal.com
+  
+# > Novel
+DOMAIN-SUFFIX,zhaoze.art
+DOMAIN-SUFFIX,ailihaosi.xyz
+
+# > Iwara
+DOMAIN-SUFFIX,iwara.tv
 
 # --- End of Hentai Section ---

@@ -1,5 +1,8 @@
 # --- Hentai ---
 
+# SSMACG
+DOMAIN-SUFFIX,ssmacg.com
+
 # > Pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net

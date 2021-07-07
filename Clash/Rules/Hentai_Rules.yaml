@@ -4,6 +4,7 @@ payload:
 
 # SSMACG
   - DOMAIN-SUFFIX,ssmacg.com
+  - DOMAIN-SUFFIX,ssmacg.xyz
   
 # > Pixiv
   - DOMAIN-SUFFIX,pixiv.net

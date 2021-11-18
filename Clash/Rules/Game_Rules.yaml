@@ -13,6 +13,7 @@ payload:
 # > Xbox
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,xboxservices.com
 
 # > Epic
   - DOMAIN-SUFFIX,epicgames.com

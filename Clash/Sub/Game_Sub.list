@@ -48,4 +48,8 @@ DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
+# > From Software
+DOMAIN-SUFFIX,fromsoftware.jp
+DOMAIN-SUFFIX,fromsoftware-game.net
+
 # --- End of Game Section ---

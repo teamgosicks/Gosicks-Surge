@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,epicgames.dev
 
 # > Blizzard
 DOMAIN-SUFFIX,battle.net

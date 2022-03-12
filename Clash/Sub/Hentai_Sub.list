@@ -7,19 +7,8 @@ DOMAIN-SUFFIX,ssmacg.xyz
 # > Pixiv
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
-
-# > Pixiv Fanbox
 DOMAIN-SUFFIX,fanbox.cc
-
-# > Pixiv Booth
 DOMAIN-SUFFIX,booth.pm
-  
-# > General
-DOMAIN-SUFFIX,91porn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,t66y.com
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,kdw019.com
 
 # > E@Hentai
 DOMAIN-SUFFIX,e-hentai.org
@@ -38,11 +27,24 @@ DOMAIN-SUFFIX,hamreus.com
 DOMAIN-SUFFIX,nhentai.net
 
 # > DMM
+DOMAIN-SUFFIX,akabeesoft2.com
+DOMAIN-SUFFIX,akabeesoft3.com
+DOMAIN-SUFFIX,akatsukiworks.com
+DOMAIN-SUFFIX,alicesoft.com
+DOMAIN-SUFFIX,cosmiccute.com
+DOMAIN-SUFFIX,ddo.jp
+DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN-KEYWORD,dmm
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm.hk
+DOMAIN-SUFFIX,hibiki-site.com
+DOMAIN-SUFFIX,minori.ph
+DOMAIN-SUFFIX,tenco.cc
+DOMAIN-SUFFIX,wheel-soft.com
 
 # > Pornhub
 DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 

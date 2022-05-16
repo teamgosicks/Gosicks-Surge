@@ -66,12 +66,6 @@ IP-CIDR,198.45.48.0/20,no-resolve
 IP-CIDR,207.45.72.0/22,no-resolve
 IP-CIDR,208.75.76.0/22,no-resolve
 
-# > niconico
-USER-AGENT,Niconico*
-DOMAIN-SUFFIX,dmc.nico
-DOMAIN-SUFFIX,nicovideo.jp
-DOMAIN-SUFFIX,nimg.jp
-
 # > Twitch
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-SUFFIX,ext-twitch.tv

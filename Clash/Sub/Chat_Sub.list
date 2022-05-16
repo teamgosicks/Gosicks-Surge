@@ -1,7 +1,8 @@
 # --- Chat ---
 
 # >> Telegram
-DOMAIN-KEYWORD,telegram
+#PROCESS-NAME,Telegram.exe
+#PROCESS-NAME,org.telegram.messenger
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
@@ -14,12 +15,6 @@ IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
-
-# > Slack
-PROCESS-NAME,Slack
-DOMAIN-SUFFIX,slack-edge.com
-DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,slack-msgs.com
 
 # > Discord
 DOMAIN-SUFFIX,discord.co

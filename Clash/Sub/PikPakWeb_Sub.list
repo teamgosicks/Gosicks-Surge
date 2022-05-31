@@ -1,5 +1,7 @@
 # --- PikPakWeb ---
 
 DOMAIN,mypikpak.com
+DOMAIN,user.mypikpak.com
+DOMAIN,api-drive.mypikpak.com
 
 # --- End of PikPakWeb Section ---

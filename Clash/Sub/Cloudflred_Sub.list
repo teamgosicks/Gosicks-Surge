@@ -1,0 +1,6 @@
+# --- Cloudflared ---
+
+# > Cloudflared
+DOMAIN-SUFFIX,argotunnel.com
+
+# --- End of Cloudflared Section ---

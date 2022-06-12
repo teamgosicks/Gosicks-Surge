@@ -55,4 +55,7 @@ DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,fromsoftware.jp
 DOMAIN-SUFFIX,fromsoftware-game.net
 
+# > Ubisoft
+DOMAIN-SUFFIX,cdn.ubi.com
+
 # --- End of Game Section ---

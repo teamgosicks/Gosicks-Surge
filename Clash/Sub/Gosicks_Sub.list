@@ -12,4 +12,7 @@ DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 
+# > Cloudflared
+DOMAIN-SUFFIX,argotunnel.com
+
 # --- End of Gosicks Section ---

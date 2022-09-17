@@ -2,15 +2,6 @@
 
 # > Gosicks
 DOMAIN-SUFFIX,gosicks.com
-DOMAIN-SUFFIX,venmos.com
-DOMAIN-SUFFIX,nav.moe
-
-# > RSSHub
-DOMAIN-SUFFIX,rsshub.app
-
-# > Dropbox
-DOMAIN-SUFFIX,dropbox.com
-DOMAIN-SUFFIX,dropboxapi.com
 
 # > Cloudflared
 DOMAIN-SUFFIX,argotunnel.com

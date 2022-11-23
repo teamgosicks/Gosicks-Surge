@@ -16,9 +16,15 @@ PROCESS-NAME,LIII.exe
 PROCESS-NAME,IDMan.exe
 PROCESS-NAME,baidunetdisk.exe
 PROCESS-NAME,Weiyun.exe
+PROCESS-NAME,dDNS Broker SE
+PROCESS-NAME,BaiduNetdisk_mac
+PROCESS-NAME,Jump Desktop
+PROCESS-NAME,Setapp
+PROCESS-NAME,SetappAgent
 
 DOMAIN-KEYWORD,aria2
 DOMAIN-SUFFIX,smtp
+DOMAIN-SUFFIX,goodsync.com
 
 URL-REGEX,(Subject|HELO|SMTP)
 URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com

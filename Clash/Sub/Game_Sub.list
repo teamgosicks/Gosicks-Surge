@@ -72,4 +72,9 @@ DOMAIN-SUFFIX,fromsoftware-game.net
 # > Ubisoft
 DOMAIN-SUFFIX,cdn.ubi.com
 
+# > Nikke
+DOMAIN-SUFFIX,intlgame.com
+DOMAIN-SUFFIX,iegcom.com
+DOMAIN-SUFFIX,nikke-kr.com
+
 # --- End of Game Section ---

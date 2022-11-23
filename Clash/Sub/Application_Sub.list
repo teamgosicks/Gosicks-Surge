@@ -1,4 +1,4 @@
-# --- Downloader ---
+# --- Application ---
 
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,fdm.exe
@@ -27,4 +27,4 @@ URL-REGEX,(.+.|^)(360|so|qihoo|360safe|qhimg|360totalsecurity|yunpan).(cn|com)
 URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
 PROCESS-NAME,DownloadService.exe
 
-# --- End of Downloader Section ---
+# --- End of Application Section ---

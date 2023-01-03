@@ -23,7 +23,6 @@ PROCESS-NAME,Setapp
 PROCESS-NAME,SetappAgent
 
 DOMAIN-SUFFIX,smtp
-DOMAIN-SUFFIX,goodsync.com
 
 URL-REGEX,(Subject|HELO|SMTP)
 URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com

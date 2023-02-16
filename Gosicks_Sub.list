@@ -1,9 +1,0 @@
-# --- Gosicks ---
-
-# > Gosicks
-DOMAIN-SUFFIX,gosicks.com
-
-# > Cloudflared
-DOMAIN-SUFFIX,argotunnel.com
-
-# --- End of Gosicks Section ---

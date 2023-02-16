@@ -7,13 +7,6 @@ DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,ssmacg.com
 DOMAIN-SUFFIX,ssmacg.xyz
 
-# > Pixiv
-DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,pximg.net
-DOMAIN-SUFFIX,fanbox.cc
-DOMAIN-SUFFIX,booth.pm
-DOMAIN-SUFFIX,pixiv.cat
-
 # > E@Hentai
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,ehwiki.org
@@ -27,28 +20,6 @@ DOMAIN-SUFFIX,fakku.net
 
 # > n@Hentai
 DOMAIN-SUFFIX,nhentai.net
-
-# > DMM
-DOMAIN-SUFFIX,akabeesoft2.com
-DOMAIN-SUFFIX,akabeesoft3.com
-DOMAIN-SUFFIX,akatsukiworks.com
-DOMAIN-SUFFIX,alicesoft.com
-DOMAIN-SUFFIX,cosmiccute.com
-DOMAIN-SUFFIX,ddo.jp
-DOMAIN-SUFFIX,dmm-extension.com
-DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN-SUFFIX,dmm.com
-DOMAIN-SUFFIX,dmm.hk
-DOMAIN-SUFFIX,hibiki-site.com
-DOMAIN-SUFFIX,minori.ph
-DOMAIN-SUFFIX,tenco.cc
-DOMAIN-SUFFIX,wheel-soft.com
-
-# > Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
 
 # > MyGalgame
 DOMAIN-SUFFIX,hhgal.com

@@ -1,0 +1,8 @@
+# --- OpenAI ---
+
+DOMAIN-SUFFIX,ai.com
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openai.com
+PROCESS-NAME,OpenCat
+
+# --- End of OpenAI Section ---

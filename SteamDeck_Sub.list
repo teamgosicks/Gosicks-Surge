@@ -2,6 +2,5 @@
 
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,steamos.cloud
-PROCESS-NAME,steam_osx
 
 # --- End of Steam Deck Section ---

@@ -1,0 +1,6 @@
+# --- Fastmail ---
+
+DOMAIN,smtp.fastmail.com
+DOMAIN,imap.fastmail.com
+
+# --- End of Fastmail Section ---

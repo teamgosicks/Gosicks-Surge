@@ -4,8 +4,8 @@
 DOMAIN,smtp.fastmail.com
 DOMAIN,imap.fastmail.com
 
-# > iCloud
-DOMAIN,imap.mail.me.com
-DOMAIN,smtp.mail.me.com
+# > iCloud Mail
+DOMAIN-KEYWORD,imap.mail.me.com
+DOMAIN-KEYWORD,smtp.mail.me.com
 
 # --- End of Mail Section ---

@@ -1,0 +1,6 @@
+# --- ProcessDirect ---
+
+# > GoodSync
+PROCESS-NAME,gs-server
+
+# --- End of ProcessDirect Section ---
